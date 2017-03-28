@@ -7,6 +7,9 @@ use Socket;
 use Env qw(HOME PATH PAGER);
 sub getavgnetbw ($$);
 
+# git add  parsync                # stage the file for the commit
+# git commit -m 'commit message'  # commits the file back
+
 # after significant changes, update the tarball and cp to moo for distribution.
 
 # cd ; cp ~/bin/parsync ~/parsync/; tar -cvzf parsync+utils.tar.gz parsync; scp parsync+utils.tar.gz moo:~/public_html/parsync 
@@ -95,7 +98,7 @@ eval {require URI::Escape}; die "[URI::Escape qw(uri_escape)] not found; require
 if (! defined $QUIET) {$QUIET = 0;}
 $PARSYNCVER =  <<VERSION;
 
-parsync version 1.68 (Mac compatibility beta) Feb 9, 2017
+parsync version 1.69 (Mac compatibility beta) Mar 27, 2017
 by Harry Mangalam <hjmangalam\@gmail.com> || <harry.mangalam\@uci.edu>
 
 parsync is a Perl script that wraps Andrew Tridgell's miraculous 'rsync' to
