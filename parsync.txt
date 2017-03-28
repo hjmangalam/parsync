@@ -1,7 +1,7 @@
 parsync - a parallel rsync wrapper for large data transfers
 ===========================================================
 by Harry Mangalam <harry.mangalam@uci.edu>
-v1.67 (Mac Beta)
+v1.68  (Mac Beta)
 Jan 22, 2017
 
 //Harry Mangalam mailto:harry.mangalam@uci.edu[harry.mangalam@uci.edu]
