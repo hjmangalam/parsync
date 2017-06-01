@@ -2,7 +2,7 @@
 a parallel rsync wrapper in Perl
 
 ## Background
-parsync is primarily tested on Linux, but (mostly) works on MaccOSX
+parsync is primarily tested on Linux, but (mostly) works on MacOSX
 as well.
 
 parsync needs to be installed only on the SOURCE end of the 
