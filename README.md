@@ -1,6 +1,14 @@
 # parsync
 a parallel rsync wrapper in Perl
 
+## NOTICE:  This project has been superceded by the parsyncfp tree at the same 
+github: <https://github.com/hjmangalam/parsyncfp>
+
+parsync is both buggier and slower than parsyncfp and is no longer being developed.
+
+I'll leave the rest of the project intact, but it will not be further developed.
+Happy to answer questions about either one <hjmangalam@gmail.com>
+
 ## Background
 parsync is primarily tested on Linux, but (mostly) works on MacOSX
 as well.
