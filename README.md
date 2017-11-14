@@ -1,7 +1,9 @@
 # parsync
 a parallel rsync wrapper in Perl
 
-## NOTICE:  This project has been superceded by the parsyncfp tree at the same 
+## NOTICE: Project superceded.
+ 
+This project has been superceded by the parsyncfp tree at the same 
 github: <https://github.com/hjmangalam/parsyncfp>
 
 parsync is both buggier and slower than parsyncfp and is no longer being developed.
